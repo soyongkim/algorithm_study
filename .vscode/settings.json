@@ -1,0 +1,10 @@
+{
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "vector": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp"
+    }
+}
